@@ -1,0 +1,68 @@
+EESchema Schematic File Version 4
+EELAYER 30 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 1 4
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Sheet
+S 7000 1850 2450 1100
+U 657C40F5
+F0 "Sallen-KeyOPA1" 50
+F1 "Sallen-KeyOPA.sch" 50
+F2 "Vbias" I L 7000 2500 50 
+F3 "AInput" I L 7000 2350 50 
+F4 "VDDA" I L 7000 2000 50 
+F5 "VEE" I L 7000 2800 50 
+F6 "AOut" O R 9450 2400 50 
+F7 "VGND" I L 7000 2100 50 
+$EndSheet
+$Sheet
+S 3300 1800 1450 900 
+U 657C418F
+F0 "VBIAS1" 50
+F1 "VBIAS.sch" 50
+F2 "VREF+" O R 4750 2000 50 
+F3 "Vbias" O R 4750 2500 50 
+F4 "VDD" I R 4750 2200 50 
+F5 "VGND" I R 4750 2300 50 
+$EndSheet
+$Sheet
+S 7000 3200 2450 1050
+U 658323BF
+F0 "Sallen-KeyOPA12" 50
+F1 "Sallen-KeyOPA2.sch" 50
+F2 "Vbias" I L 7000 3800 50 
+F3 "AInput" I L 7000 3650 50 
+F4 "AOut" O R 9450 3750 50 
+$EndSheet
+Wire Wire Line
+	7000 2500 6550 2500
+Wire Wire Line
+	6550 2500 6550 3800
+Wire Wire Line
+	6550 3800 7000 3800
+Wire Wire Line
+	4750 2500 6550 2500
+Connection ~ 6550 2500
+Wire Wire Line
+	4750 2200 5850 2200
+Wire Wire Line
+	5850 2200 5850 2000
+Wire Wire Line
+	5850 2000 7000 2000
+Wire Wire Line
+	4750 2300 5950 2300
+Wire Wire Line
+	5950 2300 5950 2100
+Wire Wire Line
+	5950 2100 7000 2100
+$EndSCHEMATC
