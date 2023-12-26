@@ -215,10 +215,10 @@ Wire Wire Line
 Wire Wire Line
 	4500 2150 5350 2150
 $Comp
-L Device:Jumper_NC_Small JP?
+L Device:Jumper_NC_Small JP1
 U 1 1 658D1745
 P 4050 3500
-F 0 "JP?" H 4050 3712 50  0000 C CNN
+F 0 "JP1" H 4050 3712 50  0000 C CNN
 F 1 "Jumper_NC_Small" H 4050 3621 50  0000 C CNN
 F 2 "" H 4050 3500 50  0001 C CNN
 F 3 "~" H 4050 3500 50  0001 C CNN
@@ -248,10 +248,10 @@ Wire Wire Line
 	4500 3400 4500 3200
 Connection ~ 4500 3200
 $Comp
-L Device:Jumper_NC_Small JP?
+L Device:Jumper_NC_Small JP2
 U 1 1 658F0A3A
 P 4500 3500
-F 0 "JP?" H 4500 3712 50  0000 C CNN
+F 0 "JP2" H 4500 3712 50  0000 C CNN
 F 1 "Jumper_NC_Small" H 4500 3621 50  0000 C CNN
 F 2 "" H 4500 3500 50  0001 C CNN
 F 3 "~" H 4500 3500 50  0001 C CNN
@@ -392,10 +392,10 @@ Wire Wire Line
 Wire Wire Line
 	3400 2900 3400 1650
 $Comp
-L Graphic:SYM_Arrow_Small #SYM?
+L Graphic:SYM_Arrow_Small #SYM3
 U 1 1 658B6458
 P 1950 2650
-F 0 "#SYM?" H 1950 2710 50  0001 C CNN
+F 0 "#SYM3" H 1950 2710 50  0001 C CNN
 F 1 "SYM_Arrow_Small" H 1960 2600 50  0001 C CNN
 F 2 "" H 1950 2650 50  0001 C CNN
 F 3 "~" H 1950 2650 50  0001 C CNN
@@ -407,10 +407,10 @@ Power\nsource
 Text Notes 9250 1450 0    50   Italic 10
 Power\nsource
 $Comp
-L Graphic:SYM_Arrow_Small #SYM?
+L Graphic:SYM_Arrow_Small #SYM4
 U 1 1 658AE40D
 P 9350 1500
-F 0 "#SYM?" H 9350 1560 50  0001 C CNN
+F 0 "#SYM4" H 9350 1560 50  0001 C CNN
 F 1 "SYM_Arrow_Small" H 9360 1450 50  0001 C CNN
 F 2 "" H 9350 1500 50  0001 C CNN
 F 3 "~" H 9350 1500 50  0001 C CNN

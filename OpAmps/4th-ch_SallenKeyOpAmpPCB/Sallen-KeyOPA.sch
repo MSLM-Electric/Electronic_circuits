@@ -681,10 +681,12 @@ $EndComp
 Wire Wire Line
 	3200 4100 3200 4300
 $Comp
-L Graphic:SYM_Arrow_Normal #SYM?
+L Graphic:SYM_Arrow_Normal #SYM5
 U 1 1 658DDBB3
 P 5250 2150
-F 0 "#SYM?" H 5250 2210 50  0001 C CNN
+AR Path="/657C40F5/658DDBB3" Ref="#SYM5"  Part="1" 
+AR Path="/658BA1E9/658DDBB3" Ref="#SYM9"  Part="1" 
+F 0 "#SYM5" H 5250 2210 50  0001 C CNN
 F 1 "SYM_Arrow_Normal" H 5260 2100 50  0001 C CNN
 F 2 "" H 5250 2150 50  0001 C CNN
 F 3 "~" H 5250 2150 50  0001 C CNN
@@ -694,10 +696,12 @@ $EndComp
 Text Label 5250 2250 0    50   ~ 0
 VA+
 $Comp
-L Graphic:SYM_Arrow_Normal #SYM?
+L Graphic:SYM_Arrow_Normal #SYM8
 U 1 1 658E1205
 P 9200 3000
-F 0 "#SYM?" H 9200 3060 50  0001 C CNN
+AR Path="/657C40F5/658E1205" Ref="#SYM8"  Part="1" 
+AR Path="/658BA1E9/658E1205" Ref="#SYM12"  Part="1" 
+F 0 "#SYM8" H 9200 3060 50  0001 C CNN
 F 1 "SYM_Arrow_Normal" H 9210 2950 50  0001 C CNN
 F 2 "" H 9200 3000 50  0001 C CNN
 F 3 "~" H 9200 3000 50  0001 C CNN
@@ -707,10 +711,12 @@ $EndComp
 Text Label 9200 3100 0    50   ~ 0
 VA+
 $Comp
-L Graphic:SYM_Arrow_Normal #SYM?
+L Graphic:SYM_Arrow_Normal #SYM6
 U 1 1 658E5E56
 P 5250 5000
-F 0 "#SYM?" H 5250 5060 50  0001 C CNN
+AR Path="/657C40F5/658E5E56" Ref="#SYM6"  Part="1" 
+AR Path="/658BA1E9/658E5E56" Ref="#SYM10"  Part="1" 
+F 0 "#SYM6" H 5250 5060 50  0001 C CNN
 F 1 "SYM_Arrow_Normal" H 5260 4950 50  0001 C CNN
 F 2 "" H 5250 5000 50  0001 C CNN
 F 3 "~" H 5250 5000 50  0001 C CNN
@@ -720,10 +726,12 @@ $EndComp
 Text Label 5250 4900 2    50   ~ 0
 VA-
 $Comp
-L Graphic:SYM_Arrow_Normal #SYM?
+L Graphic:SYM_Arrow_Normal #SYM7
 U 1 1 658EA9CB
 P 8000 4200
-F 0 "#SYM?" H 8000 4260 50  0001 C CNN
+AR Path="/657C40F5/658EA9CB" Ref="#SYM7"  Part="1" 
+AR Path="/658BA1E9/658EA9CB" Ref="#SYM11"  Part="1" 
+F 0 "#SYM7" H 8000 4260 50  0001 C CNN
 F 1 "SYM_Arrow_Normal" H 8010 4150 50  0001 C CNN
 F 2 "" H 8000 4200 50  0001 C CNN
 F 3 "~" H 8000 4200 50  0001 C CNN
