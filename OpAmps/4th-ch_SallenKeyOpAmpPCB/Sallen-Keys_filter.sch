@@ -391,4 +391,30 @@ Wire Wire Line
 	2300 2900 3400 2900
 Wire Wire Line
 	3400 2900 3400 1650
+$Comp
+L Graphic:SYM_Arrow_Small #SYM?
+U 1 1 658B6458
+P 1950 2650
+F 0 "#SYM?" H 1950 2710 50  0001 C CNN
+F 1 "SYM_Arrow_Small" H 1960 2600 50  0001 C CNN
+F 2 "" H 1950 2650 50  0001 C CNN
+F 3 "~" H 1950 2650 50  0001 C CNN
+	1    1950 2650
+	-1   0    0    1   
+$EndComp
+Text Notes 1850 2600 0    50   Italic 10
+Power\nsource
+Text Notes 9250 1450 0    50   Italic 10
+Power\nsource
+$Comp
+L Graphic:SYM_Arrow_Small #SYM?
+U 1 1 658AE40D
+P 9350 1500
+F 0 "#SYM?" H 9350 1560 50  0001 C CNN
+F 1 "SYM_Arrow_Small" H 9360 1450 50  0001 C CNN
+F 2 "" H 9350 1500 50  0001 C CNN
+F 3 "~" H 9350 1500 50  0001 C CNN
+	1    9350 1500
+	-1   0    0    1   
+$EndComp
 $EndSCHEMATC
