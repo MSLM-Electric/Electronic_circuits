@@ -52,7 +52,7 @@ U 1 1 65897B14
 P 1700 3400
 F 0 "J1" H 1618 4117 50  0000 C CNN
 F 1 "Screw_Terminal_01x11" H 1618 4026 50  0000 C CNN
-F 2 "" H 1700 3400 50  0001 C CNN
+F 2 "TerminalBlock_Phoenix:TerminalBlock_Phoenix_PT-1,5-11-3.5-H_1x11_P3.50mm_Horizontal" H 1700 3400 50  0001 C CNN
 F 3 "~" H 1700 3400 50  0001 C CNN
 	1    1700 3400
 	-1   0    0    -1  
@@ -90,7 +90,7 @@ U 1 1 658A476F
 P 9150 2350
 F 0 "J2" H 9230 2392 50  0000 L CNN
 F 1 "Conn_01x15" H 9230 2301 50  0000 L CNN
-F 2 "" H 9150 2350 50  0001 C CNN
+F 2 "Connector_PinSocket_2.54mm:PinSocket_1x15_P2.54mm_Vertical" H 9150 2350 50  0001 C CNN
 F 3 "~" H 9150 2350 50  0001 C CNN
 	1    9150 2350
 	1    0    0    -1  
@@ -220,7 +220,7 @@ U 1 1 658D1745
 P 4050 3500
 F 0 "JP1" H 4050 3712 50  0000 C CNN
 F 1 "Jumper_NC_Small" H 4050 3621 50  0000 C CNN
-F 2 "" H 4050 3500 50  0001 C CNN
+F 2 "Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm" H 4050 3500 50  0001 C CNN
 F 3 "~" H 4050 3500 50  0001 C CNN
 	1    4050 3500
 	0    -1   -1   0   
@@ -253,7 +253,7 @@ U 1 1 658F0A3A
 P 4500 3500
 F 0 "JP2" H 4500 3712 50  0000 C CNN
 F 1 "Jumper_NC_Small" H 4500 3621 50  0000 C CNN
-F 2 "" H 4500 3500 50  0001 C CNN
+F 2 "Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm" H 4500 3500 50  0001 C CNN
 F 3 "~" H 4500 3500 50  0001 C CNN
 	1    4500 3500
 	0    -1   -1   0   
