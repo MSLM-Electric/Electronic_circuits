@@ -1,0 +1,13 @@
+*.[oa]
+*.*
+DoneByCoffee
+OpAmps/BiasingSingleSallenKeyOp/BiasingSingleSallenKeyOp-backups
+!*.c
+!*.h
+!*.py
+!*.json
+!*.gitignore
+!*.txt
+!*.md
+!OpAmps/BiasingSingleSallenKeyOp/
+f
