@@ -1,7 +1,8 @@
 *.[oa]
 *.*
+*#
 DoneByCoffee
-OpAmps/BiasingSingleSallenKeyOp/BiasingSingleSallenKeyOp-backups
+OpAmps/BiasingSingleSallenKeyOp/BiasingSingleSallenKeyOp-backups/
 !*.c
 !*.h
 !*.py

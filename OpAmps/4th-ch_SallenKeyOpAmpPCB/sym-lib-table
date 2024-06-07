@@ -1,3 +1,4 @@
 (sym_lib_table
-  (lib (name Sallen-Keys_filter-rescue)(type Legacy)(uri ${KIPRJMOD}/Sallen-Keys_filter-rescue.lib)(options "")(descr ""))
+  (version 7)
+  (lib (name "Sallen-Keys_filter-rescue")(type "KiCad")(uri "${KIPRJMOD}/Sallen-Keys_filter-rescue.kicad_sym")(options "")(descr ""))
 )

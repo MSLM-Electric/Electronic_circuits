@@ -3,7 +3,7 @@ EELAYER 30 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
-Sheet 4 7
+Sheet 4 6
 Title ""
 Date ""
 Rev ""
@@ -334,7 +334,7 @@ U 1 1 658E1EFB
 P 5150 4050
 F 0 "C29" H 5242 4096 50  0000 L CNN
 F 1 "C_Small" H 5242 4005 50  0000 L CNN
-F 2 "" H 5150 4050 50  0001 C CNN
+F 2 "Capacitor_SMD:C_1206_3216Metric_Pad1.42x1.75mm_HandSolder" H 5150 4050 50  0001 C CNN
 F 3 "~" H 5150 4050 50  0001 C CNN
 	1    5150 4050
 	1    0    0    -1  
@@ -376,7 +376,7 @@ U 1 1 658E6F10
 P 7400 4250
 F 0 "C30" H 7492 4296 50  0000 L CNN
 F 1 "C_Small" H 7492 4205 50  0000 L CNN
-F 2 "" H 7400 4250 50  0001 C CNN
+F 2 "Capacitor_SMD:C_1206_3216Metric_Pad1.42x1.75mm_HandSolder" H 7400 4250 50  0001 C CNN
 F 3 "~" H 7400 4250 50  0001 C CNN
 	1    7400 4250
 	1    0    0    -1  
@@ -422,10 +422,10 @@ Wire Wire Line
 Text Notes 9600 4200 0    50   ~ 0
 Vbias = Vref/2
 $Comp
-L Reference_Voltage:TL431DBZ U?
+L Reference_Voltage:TL431DBZ U5
 U 1 1 659C71AC
 P 2150 5400
-F 0 "U?" H 2150 5193 50  0000 C CNN
+F 0 "U5" H 2150 5193 50  0000 C CNN
 F 1 "TL431DBZ" H 2150 5284 50  0000 C CNN
 F 2 "Package_TO_SOT_SMD:SOT-23" H 2150 5250 50  0001 C CIN
 F 3 "http://www.ti.com/lit/ds/symlink/tl431.pdf" H 2150 5400 50  0001 C CIN

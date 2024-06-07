@@ -3,7 +3,7 @@ EELAYER 30 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
-Sheet 1 7
+Sheet 1 6
 Title ""
 Date ""
 Rev ""
@@ -172,7 +172,7 @@ F 3 "~" H 8600 3050 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L osmLIB:SYMFwdOutput_Arrow_Small #SYM1
+L Sallen-Keys_filter-rescue:SYMFwdOutput_Arrow_Small-osmLIB #SYM1
 U 1 1 658B5691
 P 3650 1350
 F 0 "#SYM1" H 3650 1410 50  0001 C CNN
