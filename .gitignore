@@ -2,6 +2,7 @@
 *.*
 *[#]
 *.kicad_pcb
+*.zip
 DoneByCoffee
 OpAmps/BiasingSingleSallenKeyOp/BiasingSingleSallenKeyOp-backups/
 !*.c
