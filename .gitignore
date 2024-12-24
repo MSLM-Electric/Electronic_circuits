@@ -4,6 +4,7 @@
 *.kicad_pcb
 *.zip
 DoneByCoffee
+BreadBoards
 OpAmps/BiasingSingleSallenKeyOp/BiasingSingleSallenKeyOp-backups/
 !*.c
 !*.h
@@ -12,5 +13,7 @@ OpAmps/BiasingSingleSallenKeyOp/BiasingSingleSallenKeyOp-backups/
 !*.gitignore
 !*.txt
 !*.md
+!*.kicad_sch
+*_cap0805.kicad_sch
 !OpAmps/BiasingSingleSallenKeyOp/
 f
