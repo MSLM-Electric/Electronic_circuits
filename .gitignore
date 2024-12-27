@@ -3,7 +3,6 @@
 *[#]
 *.kicad_pcb
 *.zip
-DoneByCoffee
 BreadBoards
 OpAmps/BiasingSingleSallenKeyOp/BiasingSingleSallenKeyOp-backups/
 !*.c
@@ -16,4 +15,6 @@ OpAmps/BiasingSingleSallenKeyOp/BiasingSingleSallenKeyOp-backups/
 !*.kicad_sch
 *_cap0805.kicad_sch
 !OpAmps/BiasingSingleSallenKeyOp/
+!DoneByCoffee/SSOP20toSOIC20/SSOPtoSOIC.kicad_pcb
+!DoneByCoffee/SSOP20toSOIC20/SSOPtoSOIC.kicad_pro
 f
