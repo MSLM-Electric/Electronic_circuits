@@ -14,7 +14,9 @@ OpAmps/BiasingSingleSallenKeyOp/BiasingSingleSallenKeyOp-backups/
 !*.md
 !*.kicad_sch
 *_cap0805.kicad_sch
+!OPADiffMode.kicad_pcb
 !OpAmps/BiasingSingleSallenKeyOp/
 !DoneByCoffee/SSOP20toSOIC20/SSOPtoSOIC.kicad_pcb
 !DoneByCoffee/SSOP20toSOIC20/SSOPtoSOIC.kicad_pro
+DoneByCoffee/README.md
 f
