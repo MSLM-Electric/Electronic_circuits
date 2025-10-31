@@ -11084,7 +11084,7 @@
   (gr_text "GND" (at 113.9 121 -90) (layer "B.SilkS") (tstamp c6de378a-c8cd-4e2f-a627-0841583d7916)
     (effects (font (size 1 1) (thickness 0.2) bold) (justify left bottom mirror))
   )
-  (gr_text "Vbias" (at 118.3 121.4 -90) (layer "B.SilkS") (tstamp cc861bfd-515a-48e1-aaca-303650276e78)
+  (gr_text "_VDA2" (at 118.3 121.4 270) (layer "B.SilkS") (tstamp cc861bfd-515a-48e1-aaca-303650276e78)
     (effects (font (size 1 1) (thickness 0.2) bold) (justify left bottom mirror))
   )
   (gr_text "VDD & VDA1" (at 105 86.2 90) (layer "B.SilkS") (tstamp d22db6c1-a1e7-4d24-8ab8-05d4bfe12efa)
